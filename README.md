@@ -3,7 +3,9 @@ Use `pytesseract` to read digital receipts and save time manually entering items
 
 ## Requirements
 In order to run `readreceipt.py` you need to install:
+* Via Online Installer and `pip` (see https://pypi.org/project/pytesseract/)
 * `pytesseract`
+* Simpyl via `pip`
 * `opencv`
 * `numpy`
 * `matplotlib`
